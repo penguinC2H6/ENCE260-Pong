@@ -1,6 +1,5 @@
 /**  @file   pong.c
      @author Wen yu wyu18 
-             Jaimie Ralfe jtr39
      @brief  game pong. A traditional pong game with paddle vertical movement
 */
 
