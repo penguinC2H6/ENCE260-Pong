@@ -1,6 +1,5 @@
 /**  @file   game.c
      @author Wen yu wyu18 
-             Jaimie Ralfe jtr39
      @brief  main file
 */
 
