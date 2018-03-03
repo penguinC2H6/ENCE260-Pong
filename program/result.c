@@ -1,6 +1,5 @@
 /**  @file   result.c
      @author Wen yu wyu18 
-             Jaimie Ralfe jtr39
      @brief  game final result display 
 */
 #include "result.h"
