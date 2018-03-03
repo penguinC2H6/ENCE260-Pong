@@ -1,6 +1,5 @@
 /**  @file   component.h
      @author Wen yu wyu18 
-             Jaimie Ralfe jtr39
      @brief  Components(ball, paddle) used by game pong.
              this file is built based on boing.c
 */
