@@ -1,6 +1,5 @@
 /**  @file   title.c
-     @author Wen yu wyu18 
-             Jaimie Ralfe jtr39
+     @author Wen yu wyu18
      @brief  game title display 
 */
 #include "title.h"
