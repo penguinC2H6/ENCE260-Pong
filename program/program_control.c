@@ -1,6 +1,5 @@
 /**  @file   program_control.c
      @author Wen yu wyu18 
-             Jaimie Ralfe jtr39
      @brief  this module controls the whole program. it switches the program 
              in the three stage: title, game, result. This module is built based 
              on task.c
